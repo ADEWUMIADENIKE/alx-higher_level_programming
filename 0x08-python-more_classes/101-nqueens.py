@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-nqueens.py
-# ADENIKE ADEWUMI
+# Adewumi
 """Solves the N-queens puzzle.
 
 Determines all possible solutions to placing N
